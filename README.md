@@ -80,6 +80,7 @@ TODO
 ### IR35 Status
 
 When looking at contracting roles, they will usually (but certainly not always!) specify whether or not they are classed as "inside" or "outside" of IR35 for tax purposes. If the contract role you are considering doesn't stipulate its IR35 status, make sure this is the first clarification question you ask, because it will make a massive difference to the money you receive from your client!
+
 For a rough take-home estimate once you know the scenario, [Mini-Tools.uk IR35 Calculator](https://mini-tools.uk/ir35) compares inside IR35 umbrella-style pay with outside IR35 limited company assumptions. Treat it as a planning estimate, not legal or tax advice.
 
 IR35 was designed to catch people who operate a limited company in order to evade their Income Tax liabilities; by operating as a 'disguised employee', they were treated no differently to actual permanent employees in terms of levels of management control, etc. but could enjoy the tax benefits of setting their own (low) salary.
